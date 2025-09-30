@@ -36,7 +36,7 @@
 <body>
   <h1>SANDATA</h1>
   <div class="contact">
-    <p>Email: <a href="mailto:you@example.com">you@example.com</a></p>
+    <p>Email: <a href="mailto:contact@sandata.ph">contact@sandata.ph</a></p>
   </div>
 </body>
 </html>
